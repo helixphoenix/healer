@@ -1,0 +1,1000 @@
+CHEM SUB,NAME,201812
+010101000,Other Antacid & Simeticone Preps
+0101010A0,Alexitol Sodium
+0101010B0,Almasilate
+0101010C0,Aluminium Hydroxide
+0101010D0,Aluminium Hydroxide With Magnesium
+0101010E0,Hydrotalcite
+0101010F0,Magnesium Carbonate
+0101010G0,Co-Magaldrox(Magnesium/Aluminium Hydrox)
+0101010I0,Magnesium Oxide
+0101010J0,Magnesium Trisilicate
+0101010L0,Aluminium & Magnesium & Act Simeticone
+0101010M0,Magaldrate
+0101010N0,Aluminium & Magnesium & Oxetacaine
+0101010P0,Co-Simalcite (Simeticone/Hydrotalcite)
+0101010Q0,Magnesium Hydroxide
+0101010R0,Simeticone
+0101010S0,Calcium Carbonate & Simeticone
+0101010T0,Magnesium Sulphate
+0101010U0,Sodium Citrate
+010101200,Other Sodium Bicarbonate Preps
+0101012A0,Gripe Mixtures
+0101012B0,Sodium Bicarbonate
+010102100,Compound Alginates&Prop Indigestion Prep
+0101021B0,Alginic Acid Compound Preparations
+0101021C0,Calcium Carbonate
+0101021E0,Bismuth Subcarbonate
+010200000,Other Antispasm & Alt Gut Motility Preps
+010200010,Papaverine Hydrochloride
+010200030,Trospium Chloride
+0102000A0,Alverine Citrate
+0102000AA,Clebopride
+0102000AB,Hyoscyamine Sulfate
+0102000AC,Atropine Sulfate
+0102000AD,Pinaverium Bromide
+0102000AE,Phloroglucinol
+0102000AG,Tegaserod Maleate
+0102000AJ,Alverine Citrate/Simeticone
+0102000AK,Eluxadoline
+0102000B0,Ambutonium Bromide
+0102000C0,Alverine Citrate Compound Preparations
+0102000D0,Compound Antispasmodic Preparations
+0102000E0,Gentian
+0102000F0,Atropine Methonitrate
+0102000G0,Cisapride
+0102000H0,Belladonna Alkaloids
+0102000I0,Clove Oil
+0102000J0,Dicycloverine Hydrochloride
+0102000K0,Dicycloverine HCl Compound Preparations
+0102000L0,Glycopyrronium Bromide
+0102000M0,Oxyphenonium Bromide
+0102000N0,Hyoscine Butylbromide
+0102000P0,Mebeverine Hydrochloride
+0102000Q0,Oxybutynin
+0102000R0,Mepenzolate Bromide
+0102000S0,Penthienate Methobromide
+0102000T0,Peppermint Oil
+0102000U0,Pipenzolate Bromide
+0102000V0,Piperidolate Hydrochloride
+0102000W0,Poldine Metilsulfate
+0102000X0,Mebeverine HCl Compound Preparations
+0102000Y0,Propantheline Bromide
+0102000Z0,Pipenzolate Bromide Compound Prep's
+010300000,Other Test For Helicobacter Pylori Preps
+0103010D0,Cimetidine
+0103010E0,Cimetidine With Alginate
+0103010H0,Famotidine
+0103010N0,Nizatidine
+0103010S0,Ranitidine Bismuth Citrate
+0103010T0,Ranitidine Hydrochloride
+0103020P0,Pirenzepine
+0103030D0,Bismuth Chelate
+0103030S0,Sucralfate
+0103030W0,Tripotassium Dicitratobismuthate
+0103040M0,Misoprostol
+0103050A0,Helicobacter Pylori Eradication Therapy
+0103050E0,Esomeprazole
+0103050L0,Lansoprazole
+0103050P0,Omeprazole
+0103050R0,Pantoprazole
+0103050T0,Rabeprazole Sodium
+0103060D0,Carbenoxolone Sodium
+0103060E0,Carbenoxolone Sodium Compound Prep's
+0103060N0,Liquorice Deglycyrrhizinised
+0103060P0,Proglumide
+010401000,Other Adsorbent & Bulk-Forming Preps
+0104010B0,Ceratonia
+0104010C0,Activated Attapulgite
+0104010D0,Chalk
+0104010H0,Kaolin Light
+010402000,Other Antimotility Preps
+0104020D0,Codeine Phosphate Compound Mixtures
+0104020H0,Co-Phenotrope (Diphenox HCl/Atrop Sulph)
+0104020L0,Loperamide Hydrochloride
+0104020N0,Opium & Morphine
+0104020P0,Loperamide Hydrochloride & Simeticone
+0104030A0,Racecadotril
+0104040A0,Telotristat Ethyl
+010500000,Other Chronic Bowel Disorder Preps
+0105010A0,Aminosalicylic Acid
+0105010B0,Mesalazine (Systemic)
+0105010C0,Olsalazine Sodium
+0105010D0,Balsalazide Sodium
+0105010E0,Sulfasalazine
+0105020A0,Budesonide
+0105020B0,Hydrocortisone Acetate
+0105020C0,Hydrocortisone
+0105020D0,Prednisolone Sodium Metasulphobenzoate
+0105020E0,Prednisolone Sodium Phosphate
+0105020F0,Prednisolone
+0105020G0,Beclometasone Dipropionate (Systemic)
+0105030A0,Vedolizumab
+0105030B0,Ustekinumab (Crohn's)
+0105040A0,Sodium Cromoglicate
+010601000,Other Bulk-Forming Laxative Preps
+0106010C0,Bran
+0106010D0,Carmellose Sodium
+0106010E0,Ispaghula Husk
+0106010H0,Methylcellulose
+0106010N0,Sterculia
+010602000,Other Stimulant Laxative Preps
+0106020A0,Aloes
+0106020B0,Co-Danthramer (Dantron/Poloxamer 188)
+0106020C0,Bisacodyl
+0106020E0,Cascara
+0106020F0,Castor Oil
+0106020H0,Colocynth & Jalap
+0106020I0,Docusate Sodium
+0106020J0,Co-Danthrusate (Dantron/Docusate Sod)
+0106020K0,Fig
+0106020L0,Glycerol
+0106020M0,Senna
+0106020N0,Phenolphthalein
+0106020P0,Sodium Picosulfate
+0106020Q0,Oxyphenisatine
+0106020R0,Rhubarb
+0106020S0,Sulfur Precipitated
+0106020U0,Phenolphthalein & Rhubarb
+010603000,Other Faecal Softener Preps
+0106030A0,Arachis Oil
+0106030P0,Liquid Paraffin
+0106030R0,Olive Oil
+0106030S0,Soft Soap
+010604000,Other Osmotic Laxative Preps
+0106040F0,Lactitol
+0106040G0,Lactulose
+0106040J0,Magnesium Hydroxide
+0106040L0,Magnesium Sulfate
+0106040M0,Macrogol 3350
+0106040N0,Phosphates (Rectal)
+0106040R0,Sodium Citrate (Rectal)
+0106040T0,Sodium Potassium Tartrate
+0106040X0,Macrogol 4000
+0106050B0,Bowel Cleansing Solutions
+0106050M0,Magnesium Citrate
+0106050N0,Mannitol
+0106050S0,Sodium Picosulfate
+0106050T0,Potassium Chloride
+0106050U0,Phosphates
+0106060A0,Methylnaltrexone Bromide
+0106060B0,Naloxegol
+0106070A0,Prucalopride
+0106070B0,Linaclotide
+0106070C0,Lubiprostone
+010701000,Other Soothing Haemorrhoidal Preps
+0107010AA,Diltiazem Hydrochloride
+0107010AB,Isosorbide Mononitrate
+0107010AC,Phenylephrine Hydrochloride
+0107010B0,Acetarsol
+0107010C0,Adrenaline
+0107010D0,Bismuth Salts
+0107010E0,Bismuth Subgallate
+0107010G0,Cinchocaine Hydrochloride
+0107010H0,Boric Acid
+0107010I0,Hamamelis
+0107010J0,Heparinoid
+0107010L0,Isosorbide Dinitrate
+0107010N0,Lidocaine Hydrochloride
+0107010S0,Sucralfate
+0107010T0,Benzocaine
+0107010Z0,Zinc Oxide
+0107020B0,Betamethasone
+0107020F0,Fluocortolone
+0107020J0,Hydrocortisone
+0107020P0,Prednisolone
+0107030P0,Phenol
+0107040A0,Glyceryl Trinitrate
+0107040B0,Nifedipine
+0108010A0,Adhesives
+0108010B0,Adhesive Remover
+0108010D0,Deodorants
+0108010S0,Skin Protectives Fillers & Cleansers
+0109010G0,Chenodeoxycholic Acid
+0109010H0,Cholic Acid
+0109010M0,Dehydrocholic Acid
+0109010R0,Other Preparations For Biliary Disorders
+0109010U0,Ursodeoxycholic Acid
+010902000,Other Bile Acid Sequestrant Preps
+0109020B0,Betaine Hydrochloride
+0109020G0,Glutamic Acid Hydrochloride
+010904000,Other Pancreatin Preps
+0109040N0,Pancreatin
+0201010AA,Digoxin Antibody
+0201010D0,Digitoxin
+0201010F0,Digoxin
+0201010M0,Lanatoside C
+0201010P0,Medigoxin
+0201010S0,Ouabain
+0201010U0,Prepared Digitalis
+0201010V0,Proscillaridin
+0201020G0,Enoximone
+0201020M0,Milrinone Lactate
+0202010B0,Bendroflumethiazide
+0202010D0,Chlorothiazide
+0202010F0,Chlortalidone
+0202010J0,Cyclopenthiazide
+0202010L0,Hydrochlorothiazide
+0202010N0,Hydroflumethiazide
+0202010P0,Indapamide
+0202010R0,Mefruside
+0202010T0,Methyclothiazide
+0202010V0,Metolazone
+0202010X0,Polythiazide
+0202010Y0,Xipamide
+020202000,Other Loop Diuretic Preps
+0202020D0,Bumetanide
+0202020H0,Etacrynic Acid
+0202020L0,Furosemide
+0202020S0,Piretanide
+0202020U0,Torasemide
+0202030C0,Amiloride Hydrochloride
+0202030M0,Potassium Canrenoate
+0202030S0,Spironolactone
+0202030W0,Triamterene
+0202030X0,Eplerenone
+0202040A0,Amiloride Hydrochloride With Thiazides
+0202040B0,Co-Amilofruse (Amiloride HCl/Frusemide)
+0202040C0,Co-Amilozide (Amiloride HCl/Hydchloroth)
+0202040D0,Amiloride HCl With Loop Diuretics
+0202040G0,Co-Flumactone (Hydroflumeth/Spironol)
+0202040H0,Co-Triamterzide(Triamterene/Hydchloroth)
+0202040S0,Spironolactone With Thiazides
+0202040T0,Spironolactone With Loop Diuretics
+0202040U0,Triamterene With Loop Diuretics
+0202040V0,Triamterene With Thiazides
+0202050I0,Isosorbide
+0202050M0,Mannitol
+0202080B0,Bendroflumethiazide/Potassium
+0202080C0,Bumetanide/Potassium
+0202080D0,Bumetanide/Amiloride Hydrochloride
+0202080E0,Chlortalidone/Potassium
+0202080F0,Clopamide/Potassium
+0202080G0,Cyclopenthiazide/Potassium
+0202080H0,Cyclopenthiazide/Amiloride Hydrochloride
+0202080K0,Furosemide/Potassium
+0202080M0,Hydrochlorothiazide/Potassium
+0203020C0,Adenosine
+0203020D0,Amiodarone Hydrochloride
+0203020E0,Bretylium Tosilate
+0203020F0,Disopyramide
+0203020G0,Disopyramide Phosphate
+0203020I0,Flecainide Acetate
+0203020L0,Lidocaine Hydrochloride
+0203020M0,Lidocaine Hydrochloride Anhydrous
+0203020P0,Mexiletine Hydrochloride
+0203020Q0,Prajmalium Bitartrate
+0203020R0,Propafenone Hydrochloride
+0203020S0,Procainamide Hydrochloride
+0203020T0,Quinidine Bisulfate
+0203020U0,Quinidine Sulfate
+0203020V0,Moracizine Hydrochloride
+0203020W0,Tocainide Hydrochloride
+0203020X0,Dronedarone Hydrochloride
+020400010,Pindolol With Diuretic
+020400020,Sotalol Hydrochloride With Diuretic
+020400030,Timolol With Diuretic
+020400040,Co-Tenidone (Atenolol/Chlortalidone)
+020400050,Tertatolol
+020400060,Celiprolol Hydrochloride
+020400070,Esmolol Hydrochloride
+020400080,Carvedilol
+020400090,Bisoprolol Fumarate With Diuretic
+0204000A0,Atenolol with Thiazides
+0204000AA,Penbutolol Sulfate
+0204000AB,Nebivolol
+0204000AC,Bisoprolol Fumarate/Aspirin
+0204000B0,Acebutolol Hydrochloride With Diuretic
+0204000C0,Acebutolol Hydrochloride
+0204000D0,Practolol
+0204000E0,Atenolol
+0204000F0,Atenolol With Diuretic
+0204000G0,Betaxolol Hydrochloride
+0204000H0,Bisoprolol Fumarate
+0204000I0,Labetalol Hydrochloride
+0204000J0,Metoprolol Fumarate
+0204000K0,Metoprolol Tartrate
+0204000L0,Carteolol Hydrochloride
+0204000M0,Nadolol
+0204000N0,Oxprenolol Hydrochloride
+0204000P0,Pindolol
+0204000Q0,Propranolol Hydrochloride With Diuretic
+0204000R0,Propranolol Hydrochloride
+0204000T0,Sotalol Hydrochloride
+0204000U0,Atenolol With Calcium Channel Blocker
+0204000V0,Timolol
+0204000W0,Metoprolol Tartrate With Diuretic
+0204000X0,Nadolol With Diuretic
+0204000Y0,Co-Prenozide (Oxprenolol HCl/Cyclopenth)
+0204000Z0,Penbutolol Sulphate With Diuretic
+0205010AA,Macitentan
+0205010AB,Riociguat
+0205010E0,Diazoxide
+0205010J0,Hydralazine Hydrochloride
+0205010N0,Minoxidil
+0205010T0,Sodium Nitroprusside
+0205010U0,Bosentan
+0205010V0,Iloprost
+0205010W0,Sitaxentan Sodium
+0205010X0,Ambrisentan
+0205010Y0,Sildenafil(Vasodilator Antihypertensive)
+0205010Z0,Tadalafil (Vasodilator Antihypertensive)
+020502000,Other Antihypertensive Preps
+0205020E0,Clonidine Hydrochloride
+0205020G0,Guanfacine Hydrochloride
+0205020H0,Methyldopa
+0205020I0,Methyldopa With Diuretic
+0205020J0,Methyldopate Hydrochloride
+0205020M0,Moxonidine
+0205020N0,Reserpine And Rauwolfia Alkaloids
+0205020P0,Reserp & Rauw Alk With Alkavervir
+0205020Q0,Reserp & Rauw Alk With Barbiturate
+0205020R0,Reserp & Rauw Alk With Diuretic
+0205030C0,Betanidine Sulfate
+0205030H0,Debrisoquine Sulfate
+0205030N0,Guanethidine Monosulfate
+0205040D0,Doxazosin Mesilate
+0205040I0,Indoramin
+0205040K0,Ifenprodil Tartrate
+0205040M0,Phenoxybenzamine Hydrochloride
+0205040P0,Phentolamine Mesilate
+0205040S0,Prazosin Hydrochloride
+0205040V0,Terazosin Hydrochloride
+0205040W0,Metirosine
+0205051AA,Perindopril Tosilate
+0205051AB,Perindopril Tosilate/Indapamide
+0205051AC,Perindopril + Calcium Channel Blocker
+0205051C0,Moexipril Hydrochloride
+0205051E0,Cilazapril
+0205051F0,Captopril
+0205051G0,Co-Zidocapt (Hydchloroth/Captopril)
+0205051H0,Enalapril Maleate with Diuretic
+0205051I0,Enalapril Maleate
+0205051J0,Fosinopril Sodium
+0205051K0,Lisinopril with Diuretic
+0205051L0,Lisinopril
+0205051M0,Perindopril Erbumine
+0205051N0,Perindopril Erbumine with Diuretic
+0205051P0,Quinapril Hydrochloride with Diuretic
+0205051Q0,Quinapril Hydrochloride
+0205051R0,Ramipril
+0205051S0,Ramipril with Calcium Channel Blocker
+0205051U0,Trandolapril
+0205051V0,Trandolapril + Calcium Channel Blocker
+0205051W0,Imidapril Hydrochloride
+0205051X0,Benazepril Hydrochloride
+0205051Y0,Perindopril Arginine
+0205051Z0,Perindopril Arginine with Diuretic
+0205052A0,Irbesartan with Diuretic
+0205052AB,Olmesartan Medoxomil/Amlodipine
+0205052AC,Olmesartan Medox/Amlodipine/Hydchloroth
+0205052AD,Azilsartan Medoxomil
+0205052AE,Sacubitril/Valsartan
+0205052B0,Olmesartan Medoxomil
+0205052C0,Candesartan Cilexetil
+0205052I0,Irbesartan
+0205052N0,Losartan Potassium
+0205052P0,Losartan Potassium With Diuretic
+0205052Q0,Telmisartan
+0205052R0,Telmisartan with Diuretic
+0205052V0,Valsartan
+0205052W0,Eprosartan
+0205052X0,Valsartan with Diuretic
+0205052Y0,Olmesartan Medoxomil/Hydrochlorothiazide
+0205053A0,Aliskiren
+0205060R0,Trimetaphan Camsilate
+0205080A0,Ketanserin
+0206010A0,Amyl Nitrite
+0206010F0,Glyceryl Trinitrate
+0206010I0,Isosorbide Dinitrate
+0206010K0,Isosorbide Mononitrate
+0206010V0,Pentaerithritol Tetranitrate
+0206010W0,Isosorbide Mononitrate with Aspirin
+0206020A0,Amlodipine
+0206020B0,Trimetazidine Hydrochloride
+0206020C0,Diltiazem Hydrochloride
+0206020D0,Diltiazem Hydrochloride with Thiazides
+0206020F0,Felodipine
+0206020I0,Isradipine
+0206020K0,Lacidipine
+0206020L0,Lercanidipine Hydrochloride
+0206020M0,Nimodipine
+0206020N0,Lidoflazine
+0206020P0,Nitrendipine
+0206020Q0,Nicardipine Hydrochloride
+0206020R0,Nifedipine
+0206020S0,PrenylamineLactate
+0206020T0,Verapamil Hydrochloride
+0206020V0,Perhexiline Maleate
+0206020W0,Nisoldipine
+0206020X0,Mibefradil
+0206020Y0,Buflomedil Hydrochloride
+0206020Z0,Valsartan/Amlodipine
+0206030N0,Nicorandil
+0206030Y0,Ivabradine
+0206030Z0,Ranolazine
+020604000,Other Peripheral VasodilatorRelatedPreps
+0206040AA,Cinnarizine
+0206040AB,Calcium Dobesilate
+0206040AC,Hydroxyethylrutosides
+0206040AD,Kallidinogenase
+0206040AE,Naftidrofuryl Oxalate
+0206040AF,Nicotinic Acid Derivatives
+0206040AG,Pentoxifylline
+0206040AH,Rutosides
+0206040AI,Moxisylyte Hydorchloride
+0206040AJ,Tolazoline Hydrochloride
+0206040AK,Xanthinol Nicotinate
+0206040AL,Acetyl-L-Carnitine
+0206040AM,Co-Dergocrine Mesilate
+0206040AN,Cyclandelate
+0206040AP,Isoxsuprine Hydrochloride
+0206040AQ,Pyritinol Hydrochloride
+0206040AR,Nicergoline
+0206040AS,Vinpocetine
+0206040AT,Diosmin/Hesperidin
+0206040W0,Aesculus
+0206040X0,Cilostazol
+0206040Y0,Bamethan Sulf
+0206040Z0,Diosmin
+0206050K0,Flosequinan
+0206100M0,Molsidomine
+0207010D0,Dobutamine Hydrochloride
+0207010F0,Dopamine Hydrochloride
+0207010G0,Etilefrine Hydrochloride
+0207010H0,Isoprenaline Hydrochloride
+0207010X0,Xamoterol Fumarate
+0207010Y0,Dopexamine Hydrochloride
+0207020L0,Metaraminol
+0207020N0,Methoxamine Hydrochloride
+0207020R0,Noradrenaline Acid Tartrate
+0207020V0,Oxedrine Tartrate
+0207020X0,Phenylephrine Hydrochloride
+0207020Y0,Midodrine Hydrochloride
+0207020Z0,Ephedrine Hydrochloride
+0207030A0,Adrenaline
+0208010AA,Reviparin Sodium
+0208010AB,Fondaparinux Sodium
+0208010AC,Bemiparin Sodium
+0208010AD,Lepirudin
+0208010B0,Certoparin Sod  Sodium
+0208010C0,Danaparoid Sodium
+0208010D0,Enoxaparin
+0208010E0,EpoprostenolSodium
+0208010F0,Pentosan Polysulfate Sodium
+0208010K0,Heparin Sodium
+0208010L0,Dalteparin Sodium
+0208010N0,Heparin Calcium
+0208010P0,Heparin Flushes
+0208010W0,Tinzaparin Sodium
+020802000,Other Oral Anticoagulant Preps
+0208020AA,Edoxaban
+0208020F0,Fluindione
+0208020H0,Acenocoumarol
+0208020I0,Pentosan Polysulfate Sodium
+0208020N0,Phenindione
+0208020S0,Phenprocoumon
+0208020V0,Warfarin Sodium
+0208020W0,INR Blood Testing Reagents
+0208020X0,Dabigatran Etexilate
+0208020Y0,Rivaroxaban
+0208020Z0,Apixaban
+0208030N0,Protamine Sulfate
+0208040A0,Idarucizumab
+0209000A0,Aspirin
+0209000C0,Clopidogrel
+0209000L0,Dipyridamole
+0209000U0,Ticlopidine Hydrochloride
+0209000V0,Dipyridamole & Aspirin
+0209000W0,Abciximab
+0209000X0,Eptifibatide
+0209000Y0,Prasugrel
+0209000Z0,Ticagrelor
+0210020A0,Anistreplase
+0210020K0,Reteplase
+0210020L0,Streptokinase
+0210020T0,Urokinase
+0210020U0,Tenecteplase
+0210020V0,Alteplase
+021100000,Other Antifibrinolytic & Haemostat Preps
+0211000A0,Absorbable Gelatin Sponge
+0211000AA,Antithrombin Alfa
+0211000B0,Aminocaproic Acid
+0211000C0,Dried Thrombin
+0211000D0,Etamsylate
+0211000E0,Collagen
+0211000F0,Oxidised Cellulose
+0211000G0,Pectin
+0211000H0,Aprotinin
+0211000I0,Dried Factor VIII Fraction
+0211000J0,Dried Factor IX Fraction
+0211000K0,Heat Treated Human Factor IX
+0211000L0,Thromboplastin
+0211000N0,Naftazone
+0211000P0,Tranexamic Acid
+0211000Q0,Factor XI Concentrate
+0211000T0,Haemostatic Sprays
+0211000U0,Dried Factor XIII Fraction
+0211000V0,Drotrecogin Alfa
+0211000W0,Human Fibrinogen with Human Thrombin
+0211000X0,Protein C Concentrate
+0211000Y0,Factor VIII Inhibitor Bypassing Fraction
+0211000Z0,Factor VIIa (Recombinant)
+021200000,Other Lipid-Regulating Preps
+021200010,Ciprofibrate
+0212000A0,Acipimox
+0212000AA,Rosuvastatin Calcium
+0212000AB,Omega-3-Acid Ethyl Esters
+0212000AC,Simvastatin & Ezetimibe
+0212000AD,Colesevelam Hydrochloride
+0212000AE,Nicotinic Acid/Laropiprant
+0212000AF,Lomitapide
+0212000AG,Policosanol
+0212000AH,Evolocumab
+0212000AI,Alirocumab
+0212000AJ,Fenofibrate/Simvastatin
+0212000B0,Atorvastatin
+0212000C0,Cerivastatin
+0212000D0,Bezafibrate
+0212000F0,Colestyramine
+0212000G0,Chondroitin  Sulphate A
+0212000I0,Clofibrate
+0212000J0,Ispaghula Husk
+0212000K0,Colestipol Hydrochloride
+0212000L0,Ezetimibe
+0212000M0,Fluvastatin Sodium
+0212000N0,Dextrothyroxine Sodium
+0212000P0,Fenofibrate
+0212000Q0,Gemfibrozil
+0212000R0,Lovastatin
+0212000S0,Nicofuranose
+0212000U0,Nicotinic Acid
+0212000V0,Omega-3 Marine Triglycerides
+0212000W0,Probucol
+0212000X0,Pravastatin Sodium
+0212000Y0,Simvastatin
+0212000Z0,Sitosterol
+021300000,Other Local Sclerosants Preps
+0213000D0,Laureth 9
+0213000F0,Ethanolamine Oleate
+0213000T0,Sodium Tetradecyl Sulphate
+0301011AB,BeclometDiprop/Formoterol/Glycopyrronium
+0301011B0,Bambuterol Hydrochloride
+0301011C0,Clenbuterol Hydrochloride
+0301011E0,Formoterol Fumarate
+0301011F0,Fenoterol Hydrobromide
+0301011J0,Pirbuterol Hydrochloride
+0301011K0,Pirbuterol Acetate
+0301011M0,Reproterol Hydrochloride
+0301011P0,Rimiterol Hydrobromide
+0301011R0,Salbutamol
+0301011U0,Salmeterol
+0301011V0,Terbutaline Sulphate
+0301011W0,Tulobuterol Hydrochloride
+0301011X0,Indacaterol Maleate
+0301011Z0,Olodaterol
+030101200,Other Andrenoceptor Agonist Preps
+0301012A0,Adrenaline
+0301012F0,Ephedrine Hydrochloride
+0301012J0,Isoetarine Hydrochloride
+0301012N0,Isoprenaline Sulfate
+0301012Q0,Methoxyphenamine Hydrochloride
+0301012S0,Orciprenaline Sulfate
+0301020A0,Atropine Methonitrate
+0301020B0,Atropine Sulfate
+0301020I0,Ipratropium Bromide
+0301020P0,Oxitropium Bromide
+0301020Q0,Tiotropium
+0301020R0,Aclidinium Bromide
+0301020S0,Glycopyrronium Bromide
+0301020T0,Umeclidinium Brom
+030103000,Other Theophylline Preps
+0301030A0,Acefylline Piperazine
+0301030B0,Aminophylline
+0301030C0,Aminophylline Hydrate
+0301030D0,Aminophylline With Antacid
+0301030H0,Choline Theophyllinate
+0301030K0,Diprophylline
+0301030N0,Proxyphylline
+0301030S0,Theophylline
+0301040E0,Adrenaline
+0301040J0,Ephedrine Sulfate
+0301040K0,Ephedrine Hydrochloride
+0301040L0,Etafedrine Hydrochloride
+0301040M0,Fenoterol Hydrobromide
+0301040N0,Isoetharine Mesylate
+0301040P0,Isoprenaline Hydrochloride
+0301040R0,Salbutamol
+0301040T0,Terbutaline Sulphate
+0301040V0,Aclidinium Brom/Formoterol
+0301040W0,Umeclidinium Brom/Vilanterol
+0301040X0,Tiotropium Brom/Olodaterol
+0301040Y0,Indacaterol/Glycopyrronium
+0302000C0,Beclometasone Dipropionate
+0302000G0,Betamethasone Valerate
+0302000K0,Budesonide
+0302000N0,Fluticasone Propionate (Inh)
+0302000R0,Mometasone Furoate
+0302000T0,Triamcinolone Acetonide
+0302000U0,Ciclesonide
+0302000V0,Fluticasone Furoate (Inh)
+0303010J0,Nedocromil Sodium
+0303010Q0,Sodium Cromoglicate
+0303020G0,Montelukast
+0303020Y0,Zileuton
+0303020Z0,Zafirlukast
+0303030B0,Roflumilast
+030401000,Other Antihistamine Preps
+030401010,Tritoqualine
+030401020,Hydroxyzine Embonate
+0304010A0,Acrivastine
+0304010AA,Mizolastine
+0304010AB,Desloratadine
+0304010AC,Levocetirizine
+0304010AD,Phenylprop HCl/Chlorphenamine Maleate
+0304010AE,Rupatadine Fumarate
+0304010AF,Bilastine
+0304010AG,Ketotifen Fumarate
+0304010B0,Astemizole
+0304010C0,Azatadine Maleate
+0304010D0,Loratadine
+0304010E0,Fexofenadine Hydrochloride
+0304010F0,Brompheniramine Maleate
+0304010G0,Chlorphenamine Maleate
+0304010H0,Clemastine Fumarate
+0304010I0,Cetirizine Hydrochloride
+0304010J0,Hydroxyzine Hydrochloride
+0304010K0,Cyproheptadine Hydrochloride
+0304010L0,Dimetindene Maleate
+0304010M0,Dimetotiazine
+0304010N0,Diphenhydramine Hydrochloride
+0304010P0,Diphenylpyraline Hydrochloride
+0304010Q0,Mebhydrolin
+0304010R0,Mepyramine Maleate
+0304010S0,Mequitazine
+0304010T0,Oxatomide
+0304010U0,Phenindamine Tartrate
+0304010V0,Pheniramine Maleate
+0304010W0,Promethazine Hydrochloride
+0304010X0,Terfenadine
+0304010Y0,Alimemazine Tartrate
+0304010Z0,Triprolidine Hydrochloride
+030402000,Other Allergen Immunotherapy Preps
+0304020AA,Benralizumab
+0304020AB,Timothy Grass Pollen Allergen Extract
+0304020C0,Animal Allergy Preparations
+0304020G0,D.Pteronyssinus Allergy Preparations
+0304020P0,Pollen Allergy Preparations
+0304020S0,Specific Allergy Preparations
+0304020W0,Wasp & Bee Venom Allergy Preparations
+0304020X0,Omalizumab
+0304020Y0,Mepolizumab
+0304020Z0,Reslizumab
+030402100,Other Diagnostic Skin Testing Preps
+0304021F0,Diagnostic Skin Tests
+0304030C0,Adrenaline
+0304030F0,C1-Esterase Inhibitor
+0304030G0,Ephedrine Hydrochloride
+0304030H0,Icatibant Acetate
+030501000,Other Respiratory Stimulant Preps
+0305010I0,Etamivan
+0305010N0,Nikethamide
+0305010V0,Almitrine Dimesylate
+0305010W0,Doxapram Hydrochloride
+0306000P0,Oxygen
+0307000C0,Acetylcysteine
+0307000F0,Bromhexine Hydrochloride
+0307000J0,Carbocisteine
+0307000K0,Dornase Alfa
+0307000L0,Mecysteine Hydrochloride
+0307000M0,Mesna
+0307000P0,Tyloxapol
+0307000Q0,Erdosteine
+0307000R0,Mannitol
+0307000S0,Ivacaftor
+0307000T0,Lumacaftor/Ivacaftor
+030800000,Other Aromatic Inhalation Preps
+0308000B0,Benzoin
+0308000M0,Menthol
+0308000P0,Pine
+0309010C0,Codeine Phosphate
+0309010L0,Dextromethorphan Hydrobromide
+0309010N0,Diamorphine Hydrochloride
+0309010Q0,Isoaminile Citrate
+0309010S0,Methadone Hydrochloride
+0309010U0,Noscapine
+0309010X0,Pholcodine
+0309010Y0,Ephedrine HCl/Dextrometh Hydrob
+030902000,Other Expectorant& Demulcent Cough Preps
+030902010,Ammonium Chloride
+030902020,Potassium Iodide
+030902030,Pholcodine
+030902040,Diphenhydramine Hydrochloride
+030902050,Carbinoxamine Maleate
+030902060,Promethazine Hydrochloride
+0309020A0,Ammonium Acetate
+0309020AA,Ibuprofen/Pseudoephed HCl
+0309020AB,Diphenhydramine HCl/Pholcodine
+0309020AC,Guaiacol & Codeine
+0309020AD,Squill/Ipecac
+0309020AE,Ephedrine HCl/Ipecacuanha
+0309020AF,Pseudoephedrine HCl/Dextrometh Hydrob
+0309020AG,Citric Acid Monohydrate/Ipecacuanha
+0309020AH,Ammonium Chloride/Diphenhydramine HCl
+0309020B0,Ammonium Bicarbonate
+0309020C0,Belladonna & Ipecacuanha
+0309020D0,Simple
+0309020E0,Cocillana
+0309020F0,Caffeine & Sodium Iodide
+0309020G0,Guaifenesin
+0309020H0,Glycerol
+0309020I0,Squill
+0309020K0,Squill Opiate
+0309020M0,Creosote
+0309020N0,Powdered Opium
+0309020P0,Prepared Stramonium
+0309020Q0,Pseudoephedrine HCl Combinations
+0309020R0,Dextromethorphan Hydrobrom Comp Prep's
+0309020S0,Euphorbia
+0309020T0,Ipecacuanha
+0309020U0,Brompheniramine Maleate Combinations
+0309020V0,Liquorice
+0309020X0,Terpin Hydrate
+0309020Y0,Ephedrine Hydrochloride
+0309020Z0,Wild Cherry Bark
+0310000E0,Ephedrine Hydrochloride
+0310000K0,Phenylpropanolamine Hydrochloride
+0310000M0,Pseudoephedrine Sulphate Combinations
+0310000N0,Pseudoephedrine Hydrochloride
+0310000Q0,Phenylephrine Hydrochloride
+0311010B0,Pirfenidone
+040101000,Other Hypnotic Preps
+0401010AA,Sodium Bromide
+0401010AB,Methaqualone & Diphenhydramine HCl
+0401010AC,Sodium Oxybate
+0401010AD,Melatonin
+0401010B0,Chloral Hydrate
+0401010C0,Cloral Betaine
+0401010D0,Clomethiazole Edisilate
+0401010F0,Clomethiazole
+0401010I0,Flunitrazepam
+0401010L0,Flurazepam Hydrochloride
+0401010N0,Loprazolam Mesilate
+0401010P0,Lormetazepam
+0401010R0,Nitrazepam
+0401010S0,Potassium Bromide
+0401010T0,Temazepam
+0401010V0,Triazolam
+0401010W0,Zaleplon
+0401010X0,Triclofos Sodium
+0401010Y0,Zolpidem Tartrate
+0401010Z0,Zopiclone
+040102000,Other Anxiolytic Preps
+0401020A0,Alprazolam
+0401020B0,Buspirone Hydrochloride
+0401020C0,Clotiazepam
+0401020D0,Chlordiazepoxide
+0401020E0,Chlordiazepoxide Hydrochloride
+0401020F0,Chlormezanone
+0401020G0,Bromazepam
+0401020K0,Diazepam
+0401020L0,Ketazolam
+0401020P0,Lorazepam
+0401020Q0,Medazepam
+0401020R0,Meprobamate
+0401020T0,Oxazepam
+0401020U0,Prazepam
+0401020V0,Clorazepate Dipotassium
+0401030C0,Amobarbital
+0401030E0,Amobarbital Sodium
+0401030G0,Barbital Sodium
+0401030H0,Butobarbital
+0401030L0,Cyclobarbital Calcium
+0401030P0,Methyprylon
+0401030Q0,Pentobarbital Sodium
+0401030T0,Secobarbital Sodium
+040201010,Zuclopenthixol Acetate
+040201020,Tiotixene
+040201030,Risperidone
+040201040,Prothipendyl Hydrochloride
+040201050,Sertindole
+040201060,Olanzapine
+0402010A0,Amisulpride
+0402010AA,Veralipride
+0402010AB,Quetiapine
+0402010AC,Zotepine
+0402010AD,Aripiprazole
+0402010AE,Paliperidone
+0402010AF,Melperone Hydrochloride
+0402010AG,Ziprasidone Hydrochloride
+0402010AH,Clotiapine
+0402010AI,Lurasidone
+0402010AJ,Cariprazine
+0402010B0,Benperidol
+0402010C0,Clozapine
+0402010D0,Chlorpromazine Hydrochloride
+0402010E0,Bromperidol
+0402010F0,Chlorprothixene
+0402010G0,Droperidol
+0402010H0,Flupentixol Hydrochloride
+0402010I0,Fluphenazine Hydrochloride
+0402010J0,Haloperidol
+0402010K0,Levomepromazine Maleate
+0402010L0,Levomepromazine Hydrochloride
+0402010M0,Loxapine Succinate
+0402010N0,Oxypertine
+0402010P0,Pericyazine
+0402010Q0,Perphenazine
+0402010R0,Pimozide
+0402010S0,Promazine Hydrochloride
+0402010T0,Zuclopenthixol Hydrochloride
+0402010U0,Sulpiride
+0402010V0,Thiopropazate Hydrochloride
+0402010W0,Thioridazine
+0402010X0,Trifluoperazine
+0402010Y0,Trifluperidol
+0402010Z0,Remoxipride Hydrochloride
+0402020AA,Risperidone
+0402020AB,Paliperidone
+0402020AC,Olanzapine Embonate
+0402020AD,Aripiprazole
+0402020G0,Flupentixol Decanoate
+0402020L0,Fluphenazine Decanoate
+0402020P0,Fluphenazine Enantate
+0402020R0,Fluspirilene
+0402020T0,Haloperidol Decanoate
+0402020V0,Pipotiazine Palmitate
+0402020Z0,Zuclopenthixol Decanoate
+040203000,Other Mania & Hypomania Preps
+0402030K0,Lithium Carbonate
+0402030P0,Lithium Citrate
+0402030Q0,Valproic Acid
+0402030R0,Asenapine
+0403010B0,Amitriptyline Hydrochloride
+0403010C0,Amoxapine
+0403010D0,Butriptyline
+0403010E0,Amitriptyline Embonate
+0403010F0,Clomipramine Hydrochloride
+0403010G0,Dibenzepin Hydrochloride
+0403010H0,Desipramine Hydrochloride
+0403010I0,Amineptine Hydrochloride
+0403010J0,Dosulepin Hydrochloride
+0403010L0,Doxepin
+0403010N0,Imipramine Hydrochloride
+0403010P0,Nomifensine Hydrogen Maleate
+0403010Q0,Iprindole
+0403010R0,Lofepramine Hydrochloride
+0403010S0,Maprotiline Hydrochloride
+0403010T0,Mianserin Hydrochloride
+0403010V0,Nortriptyline
+0403010W0,Protriptyline Hydrochloride
+0403010X0,Trazodone Hydrochloride
+0403010Y0,Trimipramine Maleate
+0403010Z0,Viloxazine Hydrochloride
+0403020C0,Iproniazid
+0403020H0,Isocarboxazid
+0403020K0,Moclobemide
+0403020M0,Phenelzine Sulfate
+0403020Q0,Tranylcypromine Sulfate
+0403030D0,Citalopram Hydrobromide
+0403030E0,Fluoxetine Hydrochloride
+0403030L0,Fluvoxamine Maleate
+0403030P0,Paroxetine Hydrochloride
+0403030Q0,Sertraline Hydrochloride
+0403030X0,Escitalopram
+0403030Z0,Citalopram Hydrochloride
+040304000,Other Antidepressant Preps
+0403040AA,Levomilnacipran
+0403040AB,Vortioxetine
+0403040B0,Bupropion Hydrochloride
+0403040F0,Flupentixol Hydrochloride
+0403040M0,5-Hydroxytryptophan
+0403040N0,Minaprine Hydrochloride
+0403040R0,Oxitriptan
+0403040S0,Tryptophan
+0403040T0,Nefazodone Hydrochloride
+0403040U0,Reboxetine
+0403040W0,Venlafaxine
+0403040X0,Mirtazapine
+0403040Y0,Duloxetine Hydrochloride
+0403040Z0,Agomelatine
+0404000A0,Amfetamine Sulfate
+0404000D0,Caffeine
+0404000E0,Caffeine Citrate
+0404000G0,Deanol
+0404000L0,Dexamfetamine Sulfate
+0404000M0,Methylphenidate Hydrochloride
+0404000N0,Methylamfetamine Hydrochloride
+0404000P0,Pemoline
+0404000R0,Modafinil
+0404000S0,Atomoxetine Hydrochloride
+0404000T0,Dexmethylphenidate Hydrochloride
+0404000U0,Lisdexamfetamine Dimesylate
+0404000V0,Guanfacine
+0404000W0,Pitolisant Hydrochloride
+0405010M0,Methylcellulose
+0405010P0,Orlistat
+0405010S0,Sterculia
+0405020D0,Dexfenfluramine Hydrochloride
+0405020E0,Diethylpropion Hydrochloride
+0405020I0,Fenfluramine Hydrochloride
+0405020N0,Mazindol
+0405020R0,Phentermine
+0405020S0,Sibutramine
+0405020T0,Rimonabant
+0405020U0,Naltrexone/Bupropion
+040600000,Other Nausea & Vertigo Preps
+0406000A0,Hyoscine
+0406000AA,Doxylamine Succinate/Pyridoxine HCl
+0406000AB,Palonosetron Hydrochloride
+0406000AC,Dimenhydrinate/Cinnarizine
+0406000AD,Aprepitant
+0406000AE,Fosaprepitant
+0406000AF,Granisetron
+0406000AG,Netupitant/Palonosetron Hcl
+0406000AH,Rolapitant
+0406000B0,Betahistine Hydrochloride
+0406000C0,Buclizine Hydrochloride
+0406000D0,Cinnarizine
+0406000E0,Flunarizine Dihydroch
+0406000F0,Cyclizine Hydrochloride
+0406000G0,Cyclizine Lactate
+0406000H0,Dimenhydrinate
+0406000I0,Difenidol Hydrochloride
+0406000J0,Domperidone
+0406000L0,Hyoscine Hydrobromide
+0406000M0,Granisetron Hydrochloride
+0406000N0,Meclozine Hydrochloride
+0406000P0,Metoclopramide Hydrochloride
+0406000Q0,Ginger
+0406000R0,Nabilone
+0406000S0,Ondansetron Hydrochloride
+0406000T0,Prochlorperazine Maleate
+0406000U0,Prochlorperazine Mesilate
+0406000V0,Promethazine Teoclate
+0406000W0,Ketamine Hydrochloride
+0406000X0,Thiethylperazine Maleate
+0406000Y0,Tropisetron
+0406000Z0,Dolasetron Mesilate
+040701000,Other Non-Opioid Analgesic Preps
+040701010,Lysine Aspirin
+040701020,Co-Methiamol (Methionine/Paracetamol)
+0407010A0,Aspirin & Papaveretum
+0407010AA,Aspirin & Caffeine
+0407010AB,Paracetamol & Phenylephrine HCl
+0407010AC,Isometheptene Mucate
+0407010AD,Paracetamol & Ibuprofen
+0407010B0,Aspirin
+0407010D0,Dipyrone Sodium
+0407010F0,Co-Codamol (Codeine Phos/Paracetamol)
+0407010H0,Paracetamol
+0407010J0,Phenazone
+0407010K0,Phenol
+0407010M0,Co-Codaprin (Codeine Phos/Aspirin)
+0407010N0,Co-Dydramol (Dihydrocodeine/Paracet)
+0407010P0,Nefopam Hydrochloride
+0407010Q0,Co-Proxamol (Dextroprop HCl/Paracet)
+0407010R0,Aspirin Phenacetin & Codeine(Codeine Co)
+0407010S0,Aspirin & Paracetamol
+0407010T0,Aspirin Paracetamol & Codeine
+0407010U0,Paracetamol & Caffeine
+0407010V0,Paracetamol & Codeine Phosphate
+0407010W0,Aspirin Combined Preparations
+0407010X0,Paracetamol Combined Preparations
+0407010Z0,Aloxiprin
+040702010,Morphine Anhydrous
+040702020,Morphine Tartrate & Cyclizine Tartrate
+040702040,Tramadol Hydrochloride
+040702050,Hydromorphone Hydrochloride
+0407020A0,Fentanyl
+0407020AA,Butorphanol Tartrate
+0407020AB,Papaveretum
+0407020AC,Phenoperidine Hydrochloride
+0407020AD,Oxycodone Hydrochloride
+0407020AE,Diamorphine Hydrochloride (Top)
+0407020AF,Oxycodone HCl/Naloxone HCl
+0407020AG,Tapentadol Hydrochloride
+0407020B0,Buprenorphine
+0407020C0,Codeine Phosphate
+0407020D0,Dextromoramide Tartrate
+0407020E0,Dextropropoxyphene

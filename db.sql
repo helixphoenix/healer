@@ -1,0 +1,2 @@
+CREATE USER lightworker WITH ENCRYPTED PASSWORD 'secret';
+GRANT ALL PRIVILEGES ON DATABASE postgres TO lightworker;
